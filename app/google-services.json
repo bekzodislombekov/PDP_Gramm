@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898279520389",
+    "firebase_url": "https://pdp-gramm-b5a9d-default-rtdb.firebaseio.com",
+    "project_id": "pdp-gramm-b5a9d",
+    "storage_bucket": "pdp-gramm-b5a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898279520389:android:9c0358c1746e68885c91ec",
+        "android_client_info": {
+          "package_name": "com.android.example.pdpgramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898279520389-ev3stec1i97jive2jtg7r8o2ms7f7op3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKRvOCGSaUmx8DtBGIx106oBzmfO0O8qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898279520389-ev3stec1i97jive2jtg7r8o2ms7f7op3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
